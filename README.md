@@ -4,6 +4,16 @@ Flickering and old crt tv effect using css animations.
 
 ## How to use
 
+```
+npm install old-tv-effect-scss -D
+
+// OR
+
+yarn add old-tv-effect-scss -D
+```
+
+Then in your sass/scss:
+
 ```scss
 @import '~old-tv-effect-scss/mixin';
 
