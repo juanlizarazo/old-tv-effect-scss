@@ -1,4 +1,4 @@
-@mixin applyOldTvEffect($class) {
+@mixin apply-old-tv-effect($class) {
   .#{$class}::after {
     content: ' ';
     display: block;
