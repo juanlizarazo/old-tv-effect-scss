@@ -22,6 +22,11 @@ Then in your sass/scss:
 @include apply-old-tv-effect('body');
 ```
 
+## Contributors
+
+Juan Lizarazo
+[github](https://github.com/juanlizarazo) | [Twitter](https://twitter.com/juanlizarazog)
+
 ## License
 
 MIT
